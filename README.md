@@ -3,7 +3,7 @@
 
 <!-- - 🔭 I’m currently working on ... --!>
 - 🌱 Estudando JavaScript <br>
-- 💬 Fale comigo pelo email: guilhermekurz@gmail.com
+- 💬 Fale comigo pelo email: guilhermekurz21@gmail.com
 
 <hr>
 
